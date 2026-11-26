@@ -1,6 +1,6 @@
-# HEYD66
-
-实用桌面工具、AI Agent 工作流与隐私隔离软件。
+<p align="center">
+  <img src="assets/pepe-banner.gif" alt="HEYD66 Pixel Dancing Pepe" width="100%" />
+</p>
 
 ## 开源项目
 
